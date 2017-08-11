@@ -1,2 +1,0 @@
-# rubystarter
-messing with rails.
